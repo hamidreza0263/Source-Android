@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/salad"
+            android:icon="@drawable/s"
+            android:title="سالاد " />
+        <item
+            android:id="@+id/pish"
+            android:icon="@drawable/p"
+            android:title="پیش غذا" />
+        <item
+            android:id="@+id/dser"
+            android:icon="@drawable/d"
+            android:title="انوع دسر" />
+        <item
+            android:id="@+id/noshidani"
+            android:icon="@drawable/n"
+            android:title="نوشیدنی ها" />
+        <item
+            android:id="@+id/qaza"
+            android:icon="@drawable/q"
+            android:title="غذا ها" />
+        <item
+            android:id="@+id/kolemenu"
+            android:icon="@drawable/m"
+            android:title="تمام منو" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/about"
+                android:title="About" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ModelData</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvOut">Ready to code!</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>"
+    <string name="sign_in">Sign In</string>
+    <string name="title_activity_signin">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="tx_name">Name</string>
+    <string name="tx_phone">Phone</string>
+    <string name="action_register_in">Register</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">G.L.M.C</string>
+    <string name="display_in_grid">Display In Grid </string>
+    <string name="pref_display_grid">pref_display_grid</string>
+    <string name="choose_a_category">Choose a category</string>
+    <string name="display_all">Display all</string>
+    <string-array name="categories">
+        <item>Salads</item>
+        <item>Starters</item>
+        <item>Entrees</item>
+        <item>Desserts</item>
+        <item>Drinks</item>
+    </string-array>
+    <string name="opned">Open</string>
+    <string name="close">Close</string>
+</resources>
